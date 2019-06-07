@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sim800_LibraryPython", "Sim800_LibraryPython\Sim800_LibraryPython.pyproj", "{BF20F85E-0642-4A21-B3CF-61F7D9BF4E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF20F85E-0642-4A21-B3CF-61F7D9BF4E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF20F85E-0642-4A21-B3CF-61F7D9BF4E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA1FC55-B98B-4C8B-9064-200D4C4A63B6}
+	EndGlobalSection
+EndGlobal
